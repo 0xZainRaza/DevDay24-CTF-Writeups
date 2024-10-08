@@ -6,6 +6,7 @@ Here is what you got:
 ```
 籝籔籏簻簾粄籱簼粁籨簽簺簺籨籀籱簼籨粀簽粂簪粆
 ```
+Difficulty: Easy
 Can you turn yourself back into a human?
 ### Solution:
 use cyberchef or any base 8000 to get flag.
